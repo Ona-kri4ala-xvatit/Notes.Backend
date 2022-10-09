@@ -1,6 +1,6 @@
 ﻿namespace Notes.Domain
 {
-    internal class Note
+    public class Note
     {
         public Guid UserId { get; set; } //Id пользователя
         public Guid Id { get; set; } //Id заметки
