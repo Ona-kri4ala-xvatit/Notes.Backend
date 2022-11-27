@@ -7,3 +7,4 @@
 - Notes.Persistence -  взаимодействие с базой данных.
 3. Presentation:
 - Notes.WebApi - WebAPI.
+4. Tests
