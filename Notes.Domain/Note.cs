@@ -7,6 +7,6 @@
         public string? Title { get; set; }
         public string? Details { get; set; }
         public DateTime CreationDate { get; set; }
-        public DateTime? EditTime { get; set; }
+        public DateTime? EditDate { get; set; }
     }
 }
